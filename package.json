@@ -1,0 +1,15 @@
+{
+  "name": "tvo",
+  "version": "1.0.0",
+  "description": "Automated Test Developer - Technical Exercise DmitryP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.9.0"
+  }
+}
